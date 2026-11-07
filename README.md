@@ -2,8 +2,8 @@
 
 Mainline Linux for the **Xiaomi Redmi Note 8 / Note 8T** — Qualcomm **SM6125**
 (SoC codename *trinket*). The Xiaomi codenames are **ginkgo** (Note 8) and
-**willow**/(8T); they are the same board family with different panels/NFC, so
-this tree covers both.
+**willow** (Note 8T); they are the same board family with different panels/NFC,
+so this tree covers both.
 
 This is a personal bring-up tree, not something you should merge into mainline.
 It is based on the upstream **Linux 7.0** tag, with the ongoing work to get
